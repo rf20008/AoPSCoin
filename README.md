@@ -19,3 +19,4 @@ Beta testers - SamuraiA, Eclipse471, Lionfish, Mathletesv, Pi-rate, BZ1
 
 # Notice #
 This userscript is not affiliated in any way with AoPS Inc. and is an unofficial add-on to the Art of Problem Solving website. By installing AoPSCoin you accept the [AoPSCoin Terms of Service](https://artofproblemsolving.com/community/c1219179h2172220_aopscoin_terms_of_service_and_privacy_policy). Our Privacy Policy can be found [here](https://artofproblemsolving.com/community/c1219179h2172220p16217762).
+
